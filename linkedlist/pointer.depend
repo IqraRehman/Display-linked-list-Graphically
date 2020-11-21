@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1579280534 source:c:\users\fujitsu\desktop\githubweb\pointer\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<graphics.h>
+	<string>
+	<fstream>
+	<sstream>
+
